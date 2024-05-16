@@ -1,7 +1,7 @@
 #ifndef LDCP_SDK_BOOTLOADER_H_
 #define LDCP_SDK_BOOTLOADER_H_
 
-#include "ldcp/device_base.h"
+
 
 namespace ldcp_sdk
 {
