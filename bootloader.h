@@ -1,6 +1,3 @@
-#ifndef LDCP_SDK_BOOTLOADER_H_
-#define LDCP_SDK_BOOTLOADER_H_
-
 
 
 namespace ldcp_sdk
